@@ -12,3 +12,4 @@ pyparsing==3.0.9
 rsa==4.9
 six==1.16.0
 Werkzeug==2.3.4
+PyJWT
